@@ -1,0 +1,37 @@
+DEFINITION, CONDITION, LIKABLENESS
+"Sincero/a: Dice lo que piensa realmente, sin mentir ni fingir", TOM, pos
+"Comprensivo/a: Entiende el porque del comportamiento de los demas y se muestra tolerante", TOM, pos
+"Leal: Siempre actua con respeto y fidelidad a sus compromisos o hacia los demas", TOM, pos
+"Inteligente: Sabe razonar, resolver problemas y comprender ideas complejas", TOM, pos
+"Generoso/a: Tiene inclinacion a dar y compartir por encima de su propio interes", TOM, pos
+"Ingenioso/a: Tiene capacidad para inventar cosas combinando su inteligencia y habilidad", TOM, pos
+"Cooperativo/a: Disfruta haciendo cosas y combinando esfuerzos con los demas", TOM, pos
+"Indulgente: Tiende a perdonar las ofensas y juzgar sin severidad a los demas", TOM, pos
+"Concienzudo/a: Pone mucha atencion y cuidado en todo lo que hace", TOM, pos
+"Farsante: Se hace pasar por alguien que no es para enganar a los demas", TOM, neg
+"Codicioso/a: Siempre intenta acumular mas y mas cosas, y nunca las comparte con nadie mas", TOM, neg
+"Maleducado/a: No tiene buenos modales y habla sin respetar a los demas", TOM, neg
+"Egoista: No se interesa por el interes de los demas, solo por su propia conveniencia", TOM, neg
+"Hostil: Tiene una actitud provocativa y abusiva hacia otros", TOM, neg
+"Aburrido/a: Fastidia a los demas con su falta de diversion o de interes por las cosas", TOM, neg
+"Prejuicioso/a: Juzga a los demas en base a opiniones preconcebidas negativas", TOM, neg
+"Irresponsable: No es consciente de sus obligaciones y actua sin prevision", TOM, neg
+"Vago/a: Nunca lleva a cabo las tareas que deberia cumplir", TOM, neg
+"Empatico/a: Se pone en el lugar de los demas y siente en sus propias carnes como se sienten", EMPA, pos
+"Afable: Su forma de ser demuestra simpatia, sencillez y bondad", EMPA, pos
+"Bondadoso/a: Tiende de forma natural a comportarse bien y hacerle bien a los demas", EMPA, pos
+"Animado/a: Transmite su caracter alegre, agradable y ameno", EMPA, pos
+"Carinoso/a: Trata con afecto a los demas y desea estar en compania", EMPA, pos
+"Entusiasta: Tiende a emocionarse mucho y con facilidad casi todo el tiempo", EMPA, pos
+"Agradecido/a: Valora mucho y se siente muy feliz cuando le hacen un favor", EMPA, pos
+"Sensible: Se emociona ante las muestras de sentimientos como el amor o la compasion", EMPA, pos
+"Compasivo/a: Se entristece cuando ve padecer a alguien e intenta aliviar su sufrimiento", EMPA, pos
+"Cruel: No siente compasion ante el sufrimiento ajeno o se deleita con el", EMPA, neg
+"Insensible: Ni se emociona ni percibe los sentimientos de los demas", EMPA, neg
+"Condescendiente: Cuando habla hace que los demas se sientan despreciados", EMPA, neg
+"Despiadado: No perdona nada a nadie ni muestra compasion alguna", EMPA, neg
+"Pesimista: Se desespera porque solo puede ver el aspecto mas negativo de las cosas", EMPA, neg
+"Resentido/a: Se comporta como si la vida le maltratara todo el rato", EMPA, neg
+"Neurotico/a: Es muy inestable y reacciona ante las cosas de forma emocional y exagerada", EMPA, neg
+"Exaltado/a: Pierde la calma con facilidad y reacciona de forma agresiva ante los demas", EMPA, neg
+"Envidioso/a: Se siente triste o enfadado/a cuando no tiene lo mismo que otras personas", EMPA, neg

@@ -1,0 +1,47 @@
+Concept and definition, Condition, Likableness
+Sincero/a: Dice lo que piensa realmente, sin mentir ni fingir, TOM, pos
+Comprensivo/a: Entiende el porqué del comportamiento de los demás y se muestra tolerante, TOM, pos
+Leal: Siempre actúa con respeto y fidelidad a sus compromisos o hacia los demás, TOM, pos
+Inteligente: Sabe razonar, resolver problemas y comprender ideas complejas, TOM, pos
+Generoso/a: Tiene inclinación a dar y compartir por encima de su propio interés, TOM, pos
+Ingenioso/a: Tiene capacidad para inventar cosas combinando su inteligencia y habilidad, TOM, pos
+Cooperativo/a: Disfruta haciendo cosas y combinando esfuerzos con los demás, TOM, pos
+Indulgente: Tiende a perdonar las ofensas y juzgar sin severidad a los demás, TOM, pos
+Concienzudo/a: Pone mucha atención y cuidado en todo lo que hace, TOM, pos
+Farsante: Se hace pasar por alguien que no es para engañar a los demás, TOM, neg
+Codicioso/a: Siempre intenta acumular más y más cosas, y nunca las comparte con nadie más, TOM, neg
+Maleducado/a: No tiene buenos modales y habla sin respetar a los demás, TOM, neg
+Egoísta: No se interesa por el interés de los demás, sólo por su propia conveniencia, TOM, neg
+Hostil: Tiene una actitud provocativa y abusiva hacia otros, TOM, neg
+Aburrido/a: Fastidia a los demás con su falta de diversión o de interés por las cosas, TOM, neg
+Prejuicioso/a: Juzga a los demás en base a opiniones preconcebidas negativas, TOM, neg
+Irresponsable: No es consciente de sus obligaciones y actúa sin previsión, TOM, neg
+Vago/a: Nunca lleva a cabo las tareas que debería cumplir, TOM, neg
+Empático/a: Se pone en el lugar de los demás y siente en sus propias carnes cómo se sienten, EMPA, pos
+Afable: Su forma de ser demuestra simpatía, sencillez y bondad, EMPA, pos
+Bondadoso/a: Tiende de forma natural a comportarse bien y hacerle bien a los demás, EMPA, pos
+Animado/a: Transmite su carácter alegre, agradable y ameno, EMPA, pos
+Cariñoso/a: Trata con afecto a los demás y desea estar en compañía, EMPA, pos
+Entusiasta: Tiende a emocionarse mucho y con facilidad casi todo el tiempo, EMPA, pos
+Agradecido/a: Valora mucho y se siente muy feliz cuando le hacen un favor, EMPA, pos
+Sensible: Se emociona ante las muestras de sentimientos como el amor o la compasión, EMPA, pos
+Compasivo/a: Se entristece cuando ve padecer a alguien e intenta aliviar su sufrimiento, EMPA, pos
+Cruel: No siente compasión ante el sufrimiento ajeno o se deleita con él, EMPA, neg
+Insensible: Ni se emociona ni percibe los sentimientos de los demás, EMPA, neg
+Condescendiente: Cuando habla hace que los demás se sientan despreciados, EMPA, neg
+Despiadado: No perdona nada a nadie ni muestra compasión alguna, EMPA, neg
+Pesimista: Se desespera porque sólo puede ver el aspecto más negativo de las cosas, EMPA, neg
+Resentido/a: Se comporta como si la vida le maltratara todo el rato , EMPA, neg
+Neurótico/a: Es muy inestable y reacciona ante las cosas de forma emocional y exagerada, EMPA, neg
+Exaltado/a: Pierde la calma con facilidad y reacciona de forma agresiva ante los demás, EMPA, neg
+Envidioso/a: Se siente triste o enfadado/a cuando no tiene lo mismo que otras personas, EMPA, neg
+
+
+
+
+
+
+
+
+
+
